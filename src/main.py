@@ -12,7 +12,7 @@ from telegram.ext import MessageHandler, Filters
 
 import commands
 
-TOKEN = '1751301704:AAFgZDbgcE2KYvt1wWMqD4ImHu32iwsMqrw'
+TOKEN = ' !!!BOT_TOKEN!!! '
 
 updater = Updater(TOKEN, use_context=True)
 
